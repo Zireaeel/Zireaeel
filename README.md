@@ -1,4 +1,4 @@
-# Hi there, I'm @Zireaeel 👋
+### Hi there, I'm @Zireaeel 👋
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=Zireaeel&show_icons=true&theme=tokyonight)
 
