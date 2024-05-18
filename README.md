@@ -12,7 +12,7 @@
 </table>
 
 <div align="center">
-  <h3>Connect with me:</h3>
+  <h2>Connect with me:</h2>
 
   <a href="https://discord.com/users/997403369293492286" target="_blank">
     <img src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" alt="Zireaeel | Discord" width="44px" />
