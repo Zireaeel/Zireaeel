@@ -15,13 +15,12 @@
   <h3>Connect with me:</h3>
 
   <a href="https://discord.com/users/997403369293492286" target="_blank">
-    <img src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" alt="Zireaeel | Discord" width="44px" />
+    <img src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" alt="Zireaeel | Discord" width="44px" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://www.instagram.com/thesmh.bzd/" target="_blank">
-    <img src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" alt="Zireaeel | Instagram" width="44px" />
+    <img src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" alt="Zireaeel | Instagram" width="44px" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://open.spotify.com/user/31npuoyh35a7vzyrmpaiainm2qbi" target="_blank">
-    <img src="https://user-images.githubusercontent.com/33750251/59486049-ec63fa80-8e6f-11e9-8d17-9a31324a63e8.png" alt="Zireaeel | Spotify" width="43px" />
+    <img src="https://raw.githubusercontent.com/pronoy2108/Fluent-Modded-Spotify/main/spotify-icon.png" alt="Zireaeel | Spotify" width="44px" style="vertical-align: middle;" />
   </a>
 </div>
-
