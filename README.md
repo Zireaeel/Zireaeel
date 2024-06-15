@@ -17,7 +17,7 @@
   <a href="https://discord.com/users/997403369293492286" target="_blank">
     <img src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" alt="Zireaeel | Discord" width="44px" style="vertical-align: middle; margin-right: 10px;" />
   </a>
-  <a href="https://www.instagram.com/thesmh.bzd/" target="_blank">
+  <a href="https://www.instagram.com/aka_zireael/" target="_blank">
     <img src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" alt="Zireaeel | Instagram" width="44px" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://open.spotify.com/user/31npuoyh35a7vzyrmpaiainm2qbi" target="_blank">
